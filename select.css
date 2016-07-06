@@ -5,6 +5,8 @@
   color: pink;
   position: relative;
   border: solid 2px purple;
+  padding: 2px;
+  font-size: 1.2em;
 }
 
 #container {
